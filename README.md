@@ -14,6 +14,6 @@
 ### 3. EXECULTANDO O PROJETO
 - Entre na pasta com Projeto Execute o Arquivo **Index.html** 
 
-### 4. LINKS EXTRAS PRA CASO DER MERDA.
+### 4. LINKS EXTRAS PRA CASO DE MERDA.
 - Como usar o Json-Server: [JSON](https://www.alura.com.br/artigos/react-native-rest-apis-json-server#:~:text=Com%20JSON%20server%2C%20podemos%20subir,install%20-g%20json-server%20.)
 - [GOOGLE](https://www.google.com.br)
